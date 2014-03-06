@@ -8,3 +8,6 @@ asd
 wer
 
 ## directions 
+* heat tortilla
+* add veggies
+* enjoy
